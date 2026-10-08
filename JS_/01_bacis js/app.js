@@ -54,6 +54,8 @@ console.log(n==str);
 console.log(n===str);
 
 
+
+
 //5.logical operator;
 
 
