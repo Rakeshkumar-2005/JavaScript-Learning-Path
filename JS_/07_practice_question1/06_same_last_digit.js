@@ -5,4 +5,4 @@ console.log("numbers have the same last digit which is",
 num1%10);
 } else {
 console.log("numbers don't have the same last digit");
-}
+} 
