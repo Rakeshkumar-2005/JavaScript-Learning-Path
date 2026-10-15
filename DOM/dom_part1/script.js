@@ -18,7 +18,7 @@
 // console.dir(element);
 
 
-let div = document.querySelector("div");
-console.dir(div);
+// let div = document.querySelector("div");
+// console.dir(div);
 
-let heading = document.querySelector("h1");
+// let heading = document.querySelector("h1");
