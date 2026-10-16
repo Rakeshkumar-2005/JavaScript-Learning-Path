@@ -78,6 +78,7 @@
 //     if(nextColorChange) nextColorChange();
 //   },delay);
 // };
+
 // changeColor("red",1000,()=>{
 //   changeColor("orange",1000,()=>{
 //     changeColor("green",1000,()=>{
